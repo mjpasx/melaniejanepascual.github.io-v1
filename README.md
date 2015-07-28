@@ -1,2 +1,1 @@
-# melaniejanepascual.github.io
-perso
+# Melanie Jane Pascual's Personal Website 1.0
