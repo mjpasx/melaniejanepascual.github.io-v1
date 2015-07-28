@@ -1,0 +1,48 @@
+.left_column {
+    margin-right: 170px;
+}
+
+.right_column {
+    float: right;
+    width: 160px;
+}
+
+#nav_container {
+    list-style-type: none;
+    margin-bottom: 15px;
+}
+
+#page {
+    padding: 50px 0;
+    opacity: 1;
+    position: relative;
+}
+
+nav {
+    margin: 10px 0px 10px 0px;
+    font-family: "Bebas Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    display: block;
+}
+
+#main_content {
+    width: 900px;
+    margin: auto;
+}
+
+li {
+    display: inline-block;
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 5px;
+}
+
+a:hover {
+    color: #FF00FF;
+    background: #FF00FF;
+}
+
+
