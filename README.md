@@ -1,2 +1,1 @@
-[Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
-
+Personal Website using a w3Schools Layout Template
