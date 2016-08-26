@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Girls Who Code Diaries"
+date:   2013-07-05 
+comments: true
+categories: jekyll
+---
+
+July 5, 2013
+
+On June 24th, I started my Girls Who Code computer science program. I expected to be working on computers and “coding” (I didn’t know what it was). I wasn’t expecting much, but it was the complete opposite of my boring idea.
+
+These past two weeks, I’ve met inspirational people and want us to succeed as girls in computer science. I never thought I would be doing computer science and this program completely changed my perspective.
+
+I’ve met so many awesome and inspirational people such as Eric Schiede, CTO of craigslist, Debbie Sterling, CEO of Goldieblox, Dick Costolo, CEO of Twitter, and Vivienne Ming, CEO of socos and Chief Scientist of Gild.
+
+So far, I’ve learned the language of Scratch and Python, next week I’m learning Javascript. It’s like learning a new language and makes me feel so much smarter.
+
+Our program is sponsored by Twitter, so I’ve learned to take Bart and walk one block to Twitter Headquarters in San Francisco. I feel like I understand the streets of the amazing city more and I feel like an adult, working from 9-5 every morning and waking up at 7. Ever since the Bart strike, I’ve had to wake up at 6:30, It’s only $2.10 to get there and the seats are pretty comfortable.
+
+I can’t wait until we meet the creator of Google Glass and actually try it out. I’ve been emailing a majority of the speakers and I can’t wait until we meet more people. 
+
+I’ll encourage people from my school to sign up next year, I can’t wait!
+

@@ -1,0 +1,14 @@
+# Site Settings
+title: Coder. Activist. Learner.
+email: melaniejane.pascual@gmail.com
+description: website and blog
+baseurl: "/blog"
+url: "www.melaniejanepascual.com"
+twitter_username: mjpasx		
+github_username:  melaniejanepascual
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
