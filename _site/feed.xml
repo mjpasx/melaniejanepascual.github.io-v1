@@ -3,10 +3,10 @@
   <channel>
     <title>Coder. Activist. Learner.</title>
     <description>website and blog</description>
-    <link>www.melaniejanepascual.com/blog/</link>
-    <atom:link href="www.melaniejanepascual.com/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 26 Aug 2016 00:04:29 -0700</pubDate>
-    <lastBuildDate>Fri, 26 Aug 2016 00:04:29 -0700</lastBuildDate>
+    <link>www.melaniejanepascual.com/</link>
+    <atom:link href="www.melaniejanepascual.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 26 Aug 2016 00:15:58 -0700</pubDate>
+    <lastBuildDate>Fri, 26 Aug 2016 00:15:58 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -92,8 +92,8 @@ That’s it - hopefully this helps somebody out there and that you do something 
 Feel free to message or email me (melaniejane.pascual@gmail.com) with questions/comments/recommendations or just say hi :)&lt;/p&gt;
 </description>
         <pubDate>Wed, 24 Aug 2016 00:00:00 -0700</pubDate>
-        <link>www.melaniejanepascual.com/blog/jekyll/2016/08/24/tech-world.html</link>
-        <guid isPermaLink="true">www.melaniejanepascual.com/blog/jekyll/2016/08/24/tech-world.html</guid>
+        <link>www.melaniejanepascual.com/jekyll/2016/08/24/tech-world.html</link>
+        <guid isPermaLink="true">www.melaniejanepascual.com/jekyll/2016/08/24/tech-world.html</guid>
         
         
         <category>jekyll</category>
@@ -114,8 +114,8 @@ Feel free to message or email me (melaniejane.pascual@gmail.com) with questions/
 -figuring things out on my own&lt;/p&gt;
 </description>
         <pubDate>Thu, 21 Jul 2016 00:00:00 -0700</pubDate>
-        <link>www.melaniejanepascual.com/blog/jekyll/2016/07/21/independence.html</link>
-        <guid isPermaLink="true">www.melaniejanepascual.com/blog/jekyll/2016/07/21/independence.html</guid>
+        <link>www.melaniejanepascual.com/jekyll/2016/07/21/independence.html</link>
+        <guid isPermaLink="true">www.melaniejanepascual.com/jekyll/2016/07/21/independence.html</guid>
         
         
         <category>jekyll</category>
@@ -142,8 +142,8 @@ Feel free to message or email me (melaniejane.pascual@gmail.com) with questions/
 
 </description>
         <pubDate>Tue, 21 Jun 2016 00:00:00 -0700</pubDate>
-        <link>www.melaniejanepascual.com/blog/jekyll/2016/06/21/firstyear.html</link>
-        <guid isPermaLink="true">www.melaniejanepascual.com/blog/jekyll/2016/06/21/firstyear.html</guid>
+        <link>www.melaniejanepascual.com/jekyll/2016/06/21/firstyear.html</link>
+        <guid isPermaLink="true">www.melaniejanepascual.com/jekyll/2016/06/21/firstyear.html</guid>
         
         
         <category>jekyll</category>
@@ -197,8 +197,8 @@ Feel free to message or email me (melaniejane.pascual@gmail.com) with questions/
 &lt;/div&gt;
 </description>
         <pubDate>Thu, 12 May 2016 20:02:01 -0700</pubDate>
-        <link>www.melaniejanepascual.com/blog/jekyll/2016/05/12/example.html</link>
-        <guid isPermaLink="true">www.melaniejanepascual.com/blog/jekyll/2016/05/12/example.html</guid>
+        <link>www.melaniejanepascual.com/jekyll/2016/05/12/example.html</link>
+        <guid isPermaLink="true">www.melaniejanepascual.com/jekyll/2016/05/12/example.html</guid>
         
         
         <category>jekyll</category>
@@ -227,8 +227,8 @@ Feel free to message or email me (melaniejane.pascual@gmail.com) with questions/
 &lt;p&gt;So, unless the situation was a random sweepstakes, where everyone had an equal chance, I say that everyone’s prizes, acceptances, or successes are earned because of their hard work, not because of luck.&lt;/p&gt;
 </description>
         <pubDate>Tue, 28 Jul 2015 00:00:00 -0700</pubDate>
-        <link>www.melaniejanepascual.com/blog/jekyll/2015/07/28/luck.html</link>
-        <guid isPermaLink="true">www.melaniejanepascual.com/blog/jekyll/2015/07/28/luck.html</guid>
+        <link>www.melaniejanepascual.com/jekyll/2015/07/28/luck.html</link>
+        <guid isPermaLink="true">www.melaniejanepascual.com/jekyll/2015/07/28/luck.html</guid>
         
         
         <category>jekyll</category>
@@ -253,7 +253,7 @@ Feel free to message or email me (melaniejane.pascual@gmail.com) with questions/
 
 &lt;p&gt;I had 3 hours of sleep, so I had to wake up at 4:30 for my flight. At the airport, I decided to get my family food as souvenirs because it’s something they can actually use and like, I brought home a ton of donuts and east coast sandwiches! The flight I had was for Virgin America First Class (it was amazing of course). There were only 10 people in my flight too! So it was really spacious, but I fell asleep for most of the flight and then I was back home in California. The entire trip was amazing.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/blog/_images/capitol.jpg&quot; alt=&quot;My helpful screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/_images/capitol.jpg&quot; alt=&quot;My helpful screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;blog/_images/capitol.jpg&lt;/p&gt;
 
@@ -276,8 +276,8 @@ Feel free to message or email me (melaniejane.pascual@gmail.com) with questions/
 &lt;p&gt;With Natalie in front of the beautiful capitol building&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Dec 2014 19:02:01 -0800</pubDate>
-        <link>www.melaniejanepascual.com/blog/jekyll/2014/12/03/mwc.html</link>
-        <guid isPermaLink="true">www.melaniejanepascual.com/blog/jekyll/2014/12/03/mwc.html</guid>
+        <link>www.melaniejanepascual.com/jekyll/2014/12/03/mwc.html</link>
+        <guid isPermaLink="true">www.melaniejanepascual.com/jekyll/2014/12/03/mwc.html</guid>
         
         
         <category>jekyll</category>
@@ -306,8 +306,8 @@ Mentorship monday! I love this aspect, my mentor Kelly, loves my ideas and love 
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 08 Aug 2013 20:02:01 -0700</pubDate>
-        <link>www.melaniejanepascual.com/blog/jekyll/2013/08/08/life-update.html</link>
-        <guid isPermaLink="true">www.melaniejanepascual.com/blog/jekyll/2013/08/08/life-update.html</guid>
+        <link>www.melaniejanepascual.com/jekyll/2013/08/08/life-update.html</link>
+        <guid isPermaLink="true">www.melaniejanepascual.com/jekyll/2013/08/08/life-update.html</guid>
         
         
         <category>jekyll</category>
@@ -334,8 +334,8 @@ Mentorship monday! I love this aspect, my mentor Kelly, loves my ideas and love 
 
 </description>
         <pubDate>Fri, 05 Jul 2013 00:00:00 -0700</pubDate>
-        <link>www.melaniejanepascual.com/blog/jekyll/2013/07/05/gwc.html</link>
-        <guid isPermaLink="true">www.melaniejanepascual.com/blog/jekyll/2013/07/05/gwc.html</guid>
+        <link>www.melaniejanepascual.com/jekyll/2013/07/05/gwc.html</link>
+        <guid isPermaLink="true">www.melaniejanepascual.com/jekyll/2013/07/05/gwc.html</guid>
         
         
         <category>jekyll</category>
