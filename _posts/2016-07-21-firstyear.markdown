@@ -20,7 +20,7 @@ Here are some time management tips:
 
 2) Put it somewhere. Your entire schedule - activities, lunches, extracurriculars - should be together somewhere. Many students prefer Google Calendar or Trello, but I prefer writing it down. I print out weekly planners so that I can see clearly which specific blocks of time I'm free.
 
-3) You can get sleep. For some reason, I had this mindset that described 
+3) You can get sleep. For some reason, I had this mindset that describe
 
 
 
