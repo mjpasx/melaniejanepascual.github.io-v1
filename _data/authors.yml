@@ -6,22 +6,13 @@ default:                                                      # Fallback if noth
   bio:          Coder. Learner. Activist.                          # OPTIONAL: text below author name in posts
   location:     Bay Area                                       # OPTIONAL: used to display location of the author
   website:      "http://www.melaniejanepascual.com"                    # OPTIONAL: link to the author of a post
-  email:                                                      # OPTIONAL: used in the about page
-  twitter:                                         # OPTIONAL: used in the about page
-  linkedin:                                                   # OPTIONAL: used in the about page
-  xing:                                                       # OPTIONAL: used in the about page
-  github:                                             # OPTIONAL: used in the about page
-  stackoverflow:                                              # OPTIONAL: used in the about page
-  facebook:                                                   # OPTIONAL: used in the about page
-  gplus:                                                      # OPTIONAL: used in the about page
-  soundcloud:                                                 # OPTIONAL: used in the about page
-  youtube:                                                    # OPTIONAL: used in the about page
-  pinterest:                                                  # OPTIONAL: used in the about page
-  dribble:                                                    # OPTIONAL: used in the about page
-  behance:                                                    # OPTIONAL: used in the about page
-jwillmer:
+  email:         melaniejane.pascual@gmail.com                                             # OPTIONAL: used in the about page
+  twitter:       mjpasx                                  # OPTIONAL: used in the about page
+  linkedin:      melaniejanepascual                                             # OPTIONAL: used in the about page
+  github:        melaniejanepascual                      # OPTIONAL: used in the about page
+melaniejanepascual:
   initial:      melaniejanepascual
-  name:         "Jens Willmer"        
+  name:         "Melanie Jane Pascual"
   cover:        /assets/mountain-alternative-cover.jpg  
   picture:      /assets/jwillmer.jpg  
   bio:          All about technology 
