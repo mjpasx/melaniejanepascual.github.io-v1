@@ -2,7 +2,7 @@
 layout: post
 title:  "Starting in the Tech World: Freshmen & Sophomores"
 date:   2016-08-24 
-categories: jekyll
+categories: Posts
 ---
 
 Whenever I hear a friend tell me that they are interested in computer science, I immediately get excited and start listing different opportunities until I realize they are looking at me like I'm crazy. 

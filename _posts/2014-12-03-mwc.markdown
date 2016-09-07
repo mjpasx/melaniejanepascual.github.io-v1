@@ -3,7 +3,7 @@ layout: post
 title:  "Made With Code Celebration at Washington DC"
 date:   2014-12-03 22:02:01 -0500
 comments: true
-categories: jekyll
+categories: Posts
 ---
 
 Google invited me to the Made With Code Celebration in Washington DC. 

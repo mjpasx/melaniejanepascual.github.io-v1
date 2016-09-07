@@ -3,7 +3,7 @@ layout: post
 title:  "Independence: my blessing and my curse"
 date:   2016-07-21 
 comments: true
-categories: jekyll
+categories: Posts
 ---
 
 Since I started high school, I longed to be independent. I wanted to be able to make my own decisions and refused to need anybody.

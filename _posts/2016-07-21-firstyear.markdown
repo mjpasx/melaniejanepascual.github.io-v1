@@ -3,7 +3,7 @@ layout: post
 title:  "19 years later, I've stopped procrastinating (Oh and I finished my first year at college!)"
 date:   2016-06-21 
 comments: true
-categories: jekyll
+categories: Posts
 ---
 
 Throughout high school, I was one of those people that claimed they would not procrastinate on the next assignment, but still continued to do so. This continued into college - until it didn't work.

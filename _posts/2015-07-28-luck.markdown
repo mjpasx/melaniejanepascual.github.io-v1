@@ -3,7 +3,7 @@ layout: post
 title:  "Don't Call My Hard Work Luck"
 date:   2015-07-28
 comments: true
-categories: jekyll
+categories: Posts
 ---
 
 Don’t call my hard work “luck”

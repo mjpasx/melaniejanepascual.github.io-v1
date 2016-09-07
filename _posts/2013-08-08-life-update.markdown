@@ -3,7 +3,7 @@ layout: post
 title:  "August 8, 2013 life update"
 date:   2013-08-08 22:02:01 -0500
 comments: true
-categories: jekyll
+categories: Posts
 ---
 
 ### August 8, 2013 Life Update
