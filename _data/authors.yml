@@ -2,7 +2,7 @@ default:                                                      # Fallback if noth
   initial:      melaniejanepascual                                      # used for author lookup in posts and for first two characters in the about page back button
   name:         "Melanie Jane Pascual"                                # used to display author name
   cover:        /assets/mountain-alternative-cover.jpg        # OPTIONAL: defines location of cover image in about page
-  picture:      /assets/jwillmer.jpg                          # OPTIONAL: author picture
+  picture:      /assets/mjp.jpg                          # OPTIONAL: author picture
   bio:          Coder. Learner. Activist.                          # OPTIONAL: text below author name in posts
   location:     Bay Area                                       # OPTIONAL: used to display location of the author
   website:      "http://www.melaniejanepascual.com"                    # OPTIONAL: link to the author of a post
@@ -14,7 +14,7 @@ melaniejanepascual:
   initial:      melaniejanepascual
   name:         "Melanie Jane Pascual"
   cover:        /assets/mountain-alternative-cover.jpg  
-  picture:      /assets/jwillmer.jpg  
+  picture:      /assets/mjp.jpg
   bio:          All about technology 
   location:     Germany 
   website:      "http://www.melaniejanepascual.com"                    # OPTIONAL: link to the author of a post
