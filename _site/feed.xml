@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Coder. Activist. Learner.</title>
-    <description>website and blog</description>
-    <link>www.melaniejanepascual.com/</link>
-    <atom:link href="www.melaniejanepascual.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 26 Aug 2016 00:15:58 -0700</pubDate>
-    <lastBuildDate>Fri, 26 Aug 2016 00:15:58 -0700</lastBuildDate>
+    <title>MJP</title>
+    <description>This is the jekyllTheme example blog. It only exists to demonstrate how the theme looks and feels.</description>
+    <link>http://melaniejanepascual.github.io/</link>
+    <atom:link href="http://melaniejanepascual.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+      <pubDate>Wed, 07 Sep 2016 00:32:48 -0700</pubDate>
+    <lastBuildDate>Wed, 07 Sep 2016 00:32:48 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -92,8 +92,8 @@ That’s it - hopefully this helps somebody out there and that you do something 
 Feel free to message or email me (melaniejane.pascual@gmail.com) with questions/comments/recommendations or just say hi :)&lt;/p&gt;
 </description>
         <pubDate>Wed, 24 Aug 2016 00:00:00 -0700</pubDate>
-        <link>www.melaniejanepascual.com/jekyll/2016/08/24/tech-world.html</link>
-        <guid isPermaLink="true">www.melaniejanepascual.com/jekyll/2016/08/24/tech-world.html</guid>
+        <link>http://melaniejanepascual.github.io/blog/jekyll/tech-world</link>
+        <guid isPermaLink="true">http://melaniejanepascual.github.io/blog/jekyll/tech-world</guid>
         
         
         <category>jekyll</category>
@@ -114,8 +114,8 @@ Feel free to message or email me (melaniejane.pascual@gmail.com) with questions/
 -figuring things out on my own&lt;/p&gt;
 </description>
         <pubDate>Thu, 21 Jul 2016 00:00:00 -0700</pubDate>
-        <link>www.melaniejanepascual.com/jekyll/2016/07/21/independence.html</link>
-        <guid isPermaLink="true">www.melaniejanepascual.com/jekyll/2016/07/21/independence.html</guid>
+        <link>http://melaniejanepascual.github.io/blog/jekyll/independence</link>
+        <guid isPermaLink="true">http://melaniejanepascual.github.io/blog/jekyll/independence</guid>
         
         
         <category>jekyll</category>
@@ -138,12 +138,12 @@ Feel free to message or email me (melaniejane.pascual@gmail.com) with questions/
 
 &lt;p&gt;2) Put it somewhere. Your entire schedule - activities, lunches, extracurriculars - should be together somewhere. Many students prefer Google Calendar or Trello, but I prefer writing it down. I print out weekly planners so that I can see clearly which specific blocks of time I’m free.&lt;/p&gt;
 
-&lt;p&gt;3) You can get sleep. For some reason, I had this mindset that described&lt;/p&gt;
+&lt;p&gt;3) You can get sleep. For some reason, I had this mindset that describe&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 21 Jun 2016 00:00:00 -0700</pubDate>
-        <link>www.melaniejanepascual.com/jekyll/2016/06/21/firstyear.html</link>
-        <guid isPermaLink="true">www.melaniejanepascual.com/jekyll/2016/06/21/firstyear.html</guid>
+        <link>http://melaniejanepascual.github.io/blog/jekyll/firstyear</link>
+        <guid isPermaLink="true">http://melaniejanepascual.github.io/blog/jekyll/firstyear</guid>
         
         
         <category>jekyll</category>
@@ -188,17 +188,16 @@ Feel free to message or email me (melaniejane.pascual@gmail.com) with questions/
 
 &lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
 
-&lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;trigger_alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;
-  &lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Lorem Ipsum dolor sit amet&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;pre&gt;&lt;code class=&quot;language-javascript&quot;&gt;function trigger_alert(){
+  alert(&quot;Lorem Ipsum dolor sit amet&quot;);
+}
 
-&lt;span class=&quot;nx&quot;&gt;trigger_alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+trigger_alert();
 &lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
 </description>
         <pubDate>Thu, 12 May 2016 20:02:01 -0700</pubDate>
-        <link>www.melaniejanepascual.com/jekyll/2016/05/12/example.html</link>
-        <guid isPermaLink="true">www.melaniejanepascual.com/jekyll/2016/05/12/example.html</guid>
+        <link>http://melaniejanepascual.github.io/blog/jekyll/example</link>
+        <guid isPermaLink="true">http://melaniejanepascual.github.io/blog/jekyll/example</guid>
         
         
         <category>jekyll</category>
@@ -227,8 +226,8 @@ Feel free to message or email me (melaniejane.pascual@gmail.com) with questions/
 &lt;p&gt;So, unless the situation was a random sweepstakes, where everyone had an equal chance, I say that everyone’s prizes, acceptances, or successes are earned because of their hard work, not because of luck.&lt;/p&gt;
 </description>
         <pubDate>Tue, 28 Jul 2015 00:00:00 -0700</pubDate>
-        <link>www.melaniejanepascual.com/jekyll/2015/07/28/luck.html</link>
-        <guid isPermaLink="true">www.melaniejanepascual.com/jekyll/2015/07/28/luck.html</guid>
+        <link>http://melaniejanepascual.github.io/blog/jekyll/luck</link>
+        <guid isPermaLink="true">http://melaniejanepascual.github.io/blog/jekyll/luck</guid>
         
         
         <category>jekyll</category>
@@ -276,8 +275,8 @@ Feel free to message or email me (melaniejane.pascual@gmail.com) with questions/
 &lt;p&gt;With Natalie in front of the beautiful capitol building&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Dec 2014 19:02:01 -0800</pubDate>
-        <link>www.melaniejanepascual.com/jekyll/2014/12/03/mwc.html</link>
-        <guid isPermaLink="true">www.melaniejanepascual.com/jekyll/2014/12/03/mwc.html</guid>
+        <link>http://melaniejanepascual.github.io/blog/jekyll/mwc</link>
+        <guid isPermaLink="true">http://melaniejanepascual.github.io/blog/jekyll/mwc</guid>
         
         
         <category>jekyll</category>
@@ -306,8 +305,8 @@ Mentorship monday! I love this aspect, my mentor Kelly, loves my ideas and love 
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 08 Aug 2013 20:02:01 -0700</pubDate>
-        <link>www.melaniejanepascual.com/jekyll/2013/08/08/life-update.html</link>
-        <guid isPermaLink="true">www.melaniejanepascual.com/jekyll/2013/08/08/life-update.html</guid>
+        <link>http://melaniejanepascual.github.io/blog/jekyll/life-update</link>
+        <guid isPermaLink="true">http://melaniejanepascual.github.io/blog/jekyll/life-update</guid>
         
         
         <category>jekyll</category>
@@ -334,8 +333,8 @@ Mentorship monday! I love this aspect, my mentor Kelly, loves my ideas and love 
 
 </description>
         <pubDate>Fri, 05 Jul 2013 00:00:00 -0700</pubDate>
-        <link>www.melaniejanepascual.com/jekyll/2013/07/05/gwc.html</link>
-        <guid isPermaLink="true">www.melaniejanepascual.com/jekyll/2013/07/05/gwc.html</guid>
+        <link>http://melaniejanepascual.github.io/blog/jekyll/gwc</link>
+        <guid isPermaLink="true">http://melaniejanepascual.github.io/blog/jekyll/gwc</guid>
         
         
         <category>jekyll</category>
