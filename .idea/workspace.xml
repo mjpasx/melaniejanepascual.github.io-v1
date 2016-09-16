@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12d007db-40c7-4acc-bb41-be78f6930b2a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/favicon-16.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/favicon-32.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/favicon-48.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/favicon-62.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_pages/about.md" afterPath="$PROJECT_DIR$/_pages/about.md" />
     </list>
     <ignored path="melaniejanepascual.github.io.iws" />
@@ -54,7 +50,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="311">
-                <caret line="59" column="75" selection-start-line="59" selection-start-column="75" selection-end-line="59" selection-end-column="75" />
+                <caret line="59" column="67" selection-start-line="59" selection-start-column="67" selection-end-line="59" selection-end-column="67" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -303,12 +299,12 @@
       <workItem from="1473232457182" duration="799000" />
       <workItem from="1473233366854" duration="1006000" />
       <workItem from="1473234417056" duration="1211000" />
-      <workItem from="1473984807390" duration="438000" />
+      <workItem from="1473984807390" duration="651000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3532000" />
+    <option name="totallyTimeSpent" value="3745000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -745,7 +741,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="311">
-            <caret line="59" column="75" selection-start-line="59" selection-start-column="75" selection-end-line="59" selection-end-column="75" />
+            <caret line="59" column="67" selection-start-line="59" selection-start-column="67" selection-end-line="59" selection-end-column="67" />
             <folding />
           </first_editor>
           <second_editor />
