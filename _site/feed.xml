@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MJP</title>
+    <title>Melanie Jane Pascual</title>
     <description>This is the jekyllTheme example blog. It only exists to demonstrate how the theme looks and feels.</description>
     <link>http://melaniejanepascual.github.io/</link>
     <atom:link href="http://melaniejanepascual.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-      <pubDate>Wed, 07 Sep 2016 01:06:05 -0700</pubDate>
-    <lastBuildDate>Wed, 07 Sep 2016 01:06:05 -0700</lastBuildDate>
+      <pubDate>Thu, 15 Sep 2016 20:29:33 -0400</pubDate>
+    <lastBuildDate>Thu, 15 Sep 2016 20:29:33 -0400</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -91,7 +91,7 @@ It’s okay to say that you don’t know a concept during the technical intervie
 That’s it - hopefully this helps somebody out there and that you do something cool with code!!
 Feel free to message or email me (melaniejane.pascual@gmail.com) with questions/comments/recommendations or just say hi :)&lt;/p&gt;
 </description>
-        <pubDate>Wed, 24 Aug 2016 00:00:00 -0700</pubDate>
+        <pubDate>Wed, 24 Aug 2016 00:00:00 -0400</pubDate>
         <link>http://melaniejanepascual.github.io/blog/posts/tech-world</link>
         <guid isPermaLink="true">http://melaniejanepascual.github.io/blog/posts/tech-world</guid>
         
@@ -113,7 +113,7 @@ Feel free to message or email me (melaniejane.pascual@gmail.com) with questions/
 &lt;p&gt;-made mistakes like traveling to another country
 -figuring things out on my own&lt;/p&gt;
 </description>
-        <pubDate>Thu, 21 Jul 2016 00:00:00 -0700</pubDate>
+        <pubDate>Thu, 21 Jul 2016 00:00:00 -0400</pubDate>
         <link>http://melaniejanepascual.github.io/blog/posts/independence</link>
         <guid isPermaLink="true">http://melaniejanepascual.github.io/blog/posts/independence</guid>
         
@@ -141,7 +141,7 @@ Feel free to message or email me (melaniejane.pascual@gmail.com) with questions/
 &lt;p&gt;3) You can get sleep. For some reason, I had this mindset that describe&lt;/p&gt;
 
 </description>
-        <pubDate>Tue, 21 Jun 2016 00:00:00 -0700</pubDate>
+        <pubDate>Tue, 21 Jun 2016 00:00:00 -0400</pubDate>
         <link>http://melaniejanepascual.github.io/blog/posts/firstyear</link>
         <guid isPermaLink="true">http://melaniejanepascual.github.io/blog/posts/firstyear</guid>
         
@@ -195,7 +195,7 @@ Feel free to message or email me (melaniejane.pascual@gmail.com) with questions/
 trigger_alert();
 &lt;/code&gt;&lt;/pre&gt;
 </description>
-        <pubDate>Thu, 12 May 2016 20:02:01 -0700</pubDate>
+        <pubDate>Thu, 12 May 2016 23:02:01 -0400</pubDate>
         <link>http://melaniejanepascual.github.io/blog/posts/example</link>
         <guid isPermaLink="true">http://melaniejanepascual.github.io/blog/posts/example</guid>
         
@@ -225,7 +225,7 @@ trigger_alert();
 
 &lt;p&gt;So, unless the situation was a random sweepstakes, where everyone had an equal chance, I say that everyone’s prizes, acceptances, or successes are earned because of their hard work, not because of luck.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 28 Jul 2015 00:00:00 -0700</pubDate>
+        <pubDate>Tue, 28 Jul 2015 00:00:00 -0400</pubDate>
         <link>http://melaniejanepascual.github.io/blog/posts/luck</link>
         <guid isPermaLink="true">http://melaniejanepascual.github.io/blog/posts/luck</guid>
         
@@ -274,7 +274,7 @@ trigger_alert();
 
 &lt;p&gt;With Natalie in front of the beautiful capitol building&lt;/p&gt;
 </description>
-        <pubDate>Wed, 03 Dec 2014 19:02:01 -0800</pubDate>
+        <pubDate>Wed, 03 Dec 2014 22:02:01 -0500</pubDate>
         <link>http://melaniejanepascual.github.io/blog/posts/mwc</link>
         <guid isPermaLink="true">http://melaniejanepascual.github.io/blog/posts/mwc</guid>
         
@@ -304,7 +304,7 @@ Mentorship monday! I love this aspect, my mentor Kelly, loves my ideas and love 
   &lt;li&gt;twisitor image&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Thu, 08 Aug 2013 20:02:01 -0700</pubDate>
+        <pubDate>Thu, 08 Aug 2013 23:02:01 -0400</pubDate>
         <link>http://melaniejanepascual.github.io/blog/posts/life-update</link>
         <guid isPermaLink="true">http://melaniejanepascual.github.io/blog/posts/life-update</guid>
         
@@ -332,7 +332,7 @@ Mentorship monday! I love this aspect, my mentor Kelly, loves my ideas and love 
 &lt;p&gt;I’ll encourage people from my school to sign up next year, I can’t wait!&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 05 Jul 2013 00:00:00 -0700</pubDate>
+        <pubDate>Fri, 05 Jul 2013 00:00:00 -0400</pubDate>
         <link>http://melaniejanepascual.github.io/blog/posts/gwc</link>
         <guid isPermaLink="true">http://melaniejanepascual.github.io/blog/posts/gwc</guid>
         
