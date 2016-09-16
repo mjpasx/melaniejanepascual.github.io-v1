@@ -9,7 +9,7 @@ weight:    90
 excerpt:   This page contains the curriculum vitae (CV) of the author.
 ---
 
-## Profile
+## About Me
 
 Hi! My name is Melanie Janeand I'm a rising sophomore at Middlebury College studying computer science & psychology.
 Last school year, I ran MIDDSTEAM, a STEM+Arts initiative for middle school girls, went to Puerto Rico for a permaculture
@@ -55,4 +55,7 @@ Flatiron School, Summer 2015
 KIPP Bay Area Schools, Summer 2014
 : Innovation Intern
 
+---
+
+Take a look at [my resume]({{ site.url }}/assets/MelanieJanePascual.Resume1.pdf)
 
