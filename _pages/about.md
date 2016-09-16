@@ -57,5 +57,5 @@ KIPP Bay Area Schools, Summer 2014
 
 ---
 
-Take a look at [my resume]({{ site.url }}/assets/MelanieJanePascualResume1.pdf)
+Take a look at [my resume]({{ site.url }}/assets/MelanieJanePascual.Resume1.pdf)
 
