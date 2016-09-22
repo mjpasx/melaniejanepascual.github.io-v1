@@ -4,6 +4,7 @@ layout: default
 
 
 <div id="content" class="content">
+    <p>Welcome to my website! Feel free to take a look at my blog posts below or head over to the About me page to learn more about me and my work!</p>
     {% assign sorted_cats = site.categories | sort %}
     {% for category in sorted_cats %}
     {% assign sorted_posts = category[1] | reversed %}
