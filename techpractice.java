@@ -20,3 +20,9 @@ int sum(N){
 public static int[] arrayLeftRotation(int[] a, int n, int k) {
 	
 }
+
+
+//Given a string, print out all of the unique characters and the 
+//number of times it appeared in the string
+
+example: joyful
